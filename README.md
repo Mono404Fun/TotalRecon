@@ -707,11 +707,7 @@ Just **raw local analysis** with **military-grade detail**.
 
 ### 🧭 Project Diagram
 
-<p align="center">
-  <img src="docs/architecture_diagram.png" alt="TotalRecon Module Flow" width="700px">
-</p>
-
-> 🔧 You can replace this with the diagram you requested earlier.
+> Nothing here for the moment.
 
 ---
 
